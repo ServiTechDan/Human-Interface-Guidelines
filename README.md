@@ -7,4 +7,4 @@ We'll stay as [vanilla as we can and use Bootstrap's button, card, etc](https://
 
 We'll allow the native device to override the typeface to its default font, and [otherwise fall back to Helvetica Neue](https://getbootstrap.com/docs/5.0/content/reboot/#native-font-stack), as often shown in the Bootstrap wireframe examples.
 
-For icons and controlls we will use the [Material Icon Font](https://fonts.google.com/icons) whereever possible and only create custom SVGs in the rarest of instances.
+For icons and controls we will use the [Material Icon Font](https://fonts.google.com/icons) wherever possible and only create custom SVGs in the rarest of instances.
